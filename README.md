@@ -1,6 +1,8 @@
+> @AdoniCroft | All EFI files(Clover EFI & OpenCore EFI files) are tested. 
+
 ## OpenCore 0.6.5 EFI Files for Hackintosh with Gigabyte Z390 Arous Elite MB with Catalina 10.15.7
 
-> This EFI files suitable for Gigabyte Z390 Arous Elite with macOS Catalina 10.15.7
+> This EFI files suitable for Gigabyte Z390 Arous Elite with macOS Catalina 10.15.7, this EFI file with OpenCore can be used is Big Sur(have tested) as well.
 
 ### Hardware list
 
