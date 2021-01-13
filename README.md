@@ -1,3 +1,5 @@
+**[English](https://github.com/AdonisCroft/Gigabyte-Z390-Aorus-Elite-Hackintosh-OpenCore-Clover) | [中文版](https://github.com/AdonisCroft/Gigabyte-Z390-Aorus-Elite-Hackintosh-OpenCore-Clover/blob/main/Chinese.md)**
+
 > @AdoniCroft | All EFI files(Clover EFI & OpenCore EFI files) are tested. 
 
 ## OpenCore 0.6.5 EFI Files for Hackintosh with Gigabyte Z390 Arous Elite MB with Catalina 10.15.7
