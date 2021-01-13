@@ -57,5 +57,5 @@
 
 - **Github>>>****[点击前往](https://github.com/AdonisCroft/Gigabyte-Z390-Aorus-Elite-Hackintosh-OpenCore-Clover) （同时分享了Catalina 10.15.7的Clover引导和OpenCore引导的EFI，链接应该不会再次失效了。）**
 
-- **链接文字版：**https://github.com/AdonisCroft/Gigabyte-Z390-Aorus-Elite-Hackintosh-OpenCore-Clover
+- 链接文字版：https://github.com/AdonisCroft/Gigabyte-Z390-Aorus-Elite-Hackintosh-OpenCore-Clover
 
